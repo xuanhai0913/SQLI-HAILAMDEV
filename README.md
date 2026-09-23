@@ -2,6 +2,8 @@
 
 Comprehensive SQL Injection (SQLI) attack framework with C2 coordination, multi-database support, and automated exploitation.
 
+> **Disclaimer:** Authorized lab/research only. Use this project only on systems you own or have explicit permission to test. See [SECURITY.md](SECURITY.md) for responsible-use and reporting information.
+
 ## Architecture
 
 ```
